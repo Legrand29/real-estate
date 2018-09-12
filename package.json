@@ -1,0 +1,17 @@
+{
+  "name": "real-estat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "httpslegrand29.github.io/real-estate",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
